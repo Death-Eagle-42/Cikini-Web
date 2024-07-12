@@ -11707,12 +11707,12 @@ header.masthead .h1 {
 
 @font-face {
     font-family: Grenadier;
-    src: url("assets/fonts/GrenadierNF.ttf");
+    src: url("../assets/fonts/GrenadierNF.ttf");
 }
 
 @font-face {
     font-family: Tw Cen MT;
-    src: url("/assets/fonts/Tw Cen MT.ttf");
+    src: url("../assets/fonts/Tw Cen MT.ttf");
 }
 
 .grenadier {
